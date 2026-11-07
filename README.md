@@ -49,4 +49,5 @@ This repo is a personal practice log built while preparing for placements — so
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
