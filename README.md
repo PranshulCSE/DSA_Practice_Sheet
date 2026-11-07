@@ -42,3 +42,11 @@ This repo is a personal practice log built while preparing for placements — so
 ---
 
 ⭐ If this helps you in your own DSA journey, feel free to star the repo!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
