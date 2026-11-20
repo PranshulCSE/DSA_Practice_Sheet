@@ -67,6 +67,7 @@ This repo is a personal practice log built while preparing for placements — so
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0338-counting-bits) |
 ## Recursion
@@ -77,4 +78,8 @@ This repo is a personal practice log built while preparing for placements — so
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0338-counting-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
