@@ -68,8 +68,13 @@ This repo is a personal practice log built while preparing for placements — so
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
