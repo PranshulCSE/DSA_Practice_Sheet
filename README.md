@@ -50,6 +50,7 @@ This repo is a personal practice log built while preparing for placements — so
 | ------- |
 | [0007-reverse-integer](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0231-power-of-two) |
 ## Hash Table
@@ -74,6 +75,7 @@ This repo is a personal practice log built while preparing for placements — so
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
