@@ -53,6 +53,7 @@ This repo is a personal practice log built while preparing for placements — so
 | [0050-powx-n](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
@@ -88,4 +89,12 @@ This repo is a personal practice log built while preparing for placements — so
 | ------- |
 | [0190-reverse-bits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
