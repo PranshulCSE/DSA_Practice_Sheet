@@ -55,6 +55,7 @@ This repo is a personal practice log built while preparing for placements — so
 | [0231-power-of-two](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0504-base-7) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ This repo is a personal practice log built while preparing for placements — so
 | [0231-power-of-two](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -101,5 +103,6 @@ This repo is a personal practice log built while preparing for placements — so
 ## String
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->
