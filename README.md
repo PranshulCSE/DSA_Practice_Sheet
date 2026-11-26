@@ -55,6 +55,7 @@ This repo is a personal practice log built while preparing for placements — so
 | [0231-power-of-two](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0412-fizz-buzz) |
@@ -109,4 +110,24 @@ This repo is a personal practice log built while preparing for placements — so
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0504-base-7) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
