@@ -52,6 +52,7 @@ This repo is a personal practice log built while preparing for placements — so
 | [0009-palindrome-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0258-add-digits) |
