@@ -51,6 +51,7 @@ This repo is a personal practice log built while preparing for placements — so
 | [0007-reverse-integer](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0050-powx-n) |
+| [0171-excel-sheet-column-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0258-add-digits) |
@@ -107,6 +108,7 @@ This repo is a personal practice log built while preparing for placements — so
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0504-base-7) |
