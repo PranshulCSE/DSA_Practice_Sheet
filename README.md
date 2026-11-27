@@ -84,6 +84,7 @@ This repo is a personal practice log built while preparing for placements — so
 | [0342-power-of-four](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0461-hamming-distance) |
 ## Recursion
 |  |
 | ------- |
