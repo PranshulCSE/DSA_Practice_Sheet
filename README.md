@@ -68,6 +68,7 @@ This repo is a personal practice log built while preparing for placements — so
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +118,7 @@ This repo is a personal practice log built while preparing for placements — so
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0504-base-7) |
@@ -140,4 +142,8 @@ This repo is a personal practice log built while preparing for placements — so
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0292-nim-game) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/PranshulCSE/DSA_Practice_Sheet/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
